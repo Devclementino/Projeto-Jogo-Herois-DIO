@@ -19,7 +19,7 @@ class Heroi {
         ataque = "artes marciais"
         break;
       case "ninja":
-        ataque = "espada"
+        ataque = "senbon"
         break;
       default:
         ataque = "um ataque genérico"
